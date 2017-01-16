@@ -1,1 +1,0 @@
-game.libretro.fmsx https://github.com/kodi-game/game.libretro.fmsx master

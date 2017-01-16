@@ -1,1 +1,0 @@
-game.libretro.virtualjaguar https://github.com/kodi-game/game.libretro.virtualjaguar master
