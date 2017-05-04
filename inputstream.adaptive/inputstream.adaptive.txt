@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/peak3d/inputstream.adaptive agile
+inputstream.adaptive https://github.com/peak3d/inputstream.adaptive master
