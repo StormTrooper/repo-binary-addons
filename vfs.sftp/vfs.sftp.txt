@@ -1,1 +1,1 @@
-vfs.sftp https://github.com/xbmc/vfs.sftp caf59bf9eb644d3e95a9dd91c9c2dc42a3f0360a 
+vfs.sftp https://github.com/xbmc/vfs.sftp master 
