@@ -1,1 +1,1 @@
-vfs.sftp https://github.com/StormTrooper/vfs.sftp e69acc9b7bd73e068697e3e02816ad074d301cce 
+vfs.sftp https://github.com/StormTrooper/vfs.sftp master
