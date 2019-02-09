@@ -1,1 +1,1 @@
-pvr.vuplus https://github.com/StormTrooper/pvr.vuplus master
+pvr.vuplus https://github.com/StormTrooper/pvr.vuplus cmake-fix
