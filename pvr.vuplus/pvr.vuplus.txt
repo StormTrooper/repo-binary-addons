@@ -1,1 +1,1 @@
-pvr.vuplus https://github.com/StormTrooper/pvr.vuplus nlohmann361 
+pvr.vuplus https://github.com/kodi-pvr/pvr.vuplus master 
